@@ -5,7 +5,7 @@
       alt="linkedin" />
   </a>
 
-Hello, I'm Emre Kaplan, a computer engineer from Middle East Technical University and cryptocurrency and blockchain enthusiast from Turkey.
+Hello, I'm Emre Kaplan, a computer engineer from Middle East Technical University and cryptocurrency and blockchain enthusiast from Turkey. My resume can also be founded in this repository.
 
 - 👯 I’m Interested in algorithm design, analyses and learning and implementing different compression algorithms.
 - 🤔 I’m looking for new ideas to start a project. If you have anything please do not hesitate to contact me.
