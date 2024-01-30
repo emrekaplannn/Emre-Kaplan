@@ -9,7 +9,7 @@ Hello, I'm Emre Kaplan, a computer engineer from Middle East Technical Universit
 
 - 👯 I’m Interested in algorithm design, analyses and learning and implementing different compression algorithms.
 - 🤔 I’m looking for new ideas to start a project. If you have anything please do not hesitate to contact me.
-<!--
+<!-- 
 **e-hengirmen/e-hengirmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [EMRE KAPLAN RESUME.pdf](https://github.com/emrekaplannn/Emre-Kaplan/files/14082477/EMRE.KAPLAN.RESUME.pdf)
