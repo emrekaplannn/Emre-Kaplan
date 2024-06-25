@@ -11,4 +11,4 @@ Hello, I'm Emre Kaplan, a computer engineer from Middle East Technical Universit
 - 🤔 I’m looking for new ideas to start a project. If you have anything please do not hesitate to contact me.
 <!-- 
 
-[EMRE KAPLAN RESUME.pdf](https://github.com/emrekaplannn/Emre-Kaplan/files/14082477/EMRE.KAPLAN.RESUME.pdf)
+[EMRE KAPLAN RESUME.pdf] (https://github.com/emrekaplannn/Emre-Kaplann/blob/502c3d70906ab3841c3e352756a9a022e63ef563/EMRE%20KAPLAN%20RESUME.pdf)
